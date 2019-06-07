@@ -1,0 +1,46 @@
+Materiale utilizzato. 
+Schede utilizzate. 
+ESP8266 d1 wemos.  2,5 euro
+https://s.click.aliexpress.com/e/pMiRYYg
+
+Componenti elettronica. 
+Pulsanti 6*6. 1 euro 50 pezzi. 
+https://s.click.aliexpress.com/e/btslZ6fq
+Resistenze confezione con varie valuta 600 pezzi. 2.30 euro
+https://s.click.aliexpress.com/e/bNxa9nKY
+Spille 2,5 10 pezzi femmina 90 gradi. 1,5 euro
+https://s.click.aliexpress.com/e/bmnkEOBA
+Interruttore 10 pezzi. 1,5 euro
+https://s.click.aliexpress.com/e/cdUDr2Pe
+Guaina termorestringente 5 metri. 0,70 euro
+https://s.click.aliexpress.com/e/ck00Esw8
+Puntalini per collegamenti:
+Dupont 50 pezzi maschio, 50 pezzi femmina. 1 euro
+https://s.click.aliexpress.com/e/cNjpvahw
+Basetta circuito 10 pezzi.  2,5 euro
+https://s.click.aliexpress.com/e/bvaxGNJi
+
+Cavo:
+(comprato in un negozio di elettronica in zona) 
+Cavo per impianti d'allarme  8 fili sezione 0,22 100 metri.  28 euro
+Cavo rigido in rame sezione 0,22 
+(trovarlo in giro vi chiedono parecchio io lo avevo già) 
+
+Porta batteria aa*4. 1,4 euro
+https://s.click.aliexpress.com/e/beTPced6
+
+Prezzo materiale : 42,4 euro 
+(i prezzi sono con la spedizione inclusa, come se comprassi ogni pezzo singolarmente)
+
+ATTREZZATURA:
+Pinza dupont. 32 euro
+https://www.amazon.it/dp/B078K9DT69/ref=cm_sw_r_cp_apa_i_hIz-Cb73810VT
+Pinza faston. 26 euro
+https://www.amazon.it/dp/B07H4LCNKT/ref=cm_sw_r_cp_apa_i_HMz-CbQBKFN3P
+Saldatore a stagno:
+Kit stazione saldatura. 15 euro
+https://s.click.aliexpress.com/e/mfJ70pi
+
+Prezzo totale : 141 euro
+(i prezzi sono con la spedizione inclusa, come se comprassi ogni pezzo singolarmente) 
+
